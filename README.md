@@ -26,4 +26,10 @@ Android markets list including official and third-party from China, Russia, ...
 * http://andstore.ru
 * http://moyandroid.net
 * http://softandroid.ru
-* http://soft4android.ru/
+* http://soft4android.ru
+* http://mblite.ru/load/android_os/23                         
+* http://apk-android-apps.ru                        
+* http://gamer-android.ru                        
+* http://androidlife.ru                        
+* http://u8650.ru                    
+* http://mysensor.ru
