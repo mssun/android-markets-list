@@ -13,6 +13,7 @@ Android markets list including official and third-party from China, Russia, ...
 * http://www.anzhi.com
 * http://android.d.cn
 * http://www.mumayi.com
+* http://apk.gfan.com
 
 ###Russia
 * http://alloptimus.ru
