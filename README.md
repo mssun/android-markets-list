@@ -37,3 +37,13 @@ Android markets list including official and third-party from China, Russia, ...
 * http://androidlife.ru                        
 * http://u8650.ru                    
 * http://mysensor.ru
+
+###Markets Information (Statiscs from [android-apps-crawler](https://github.com/mssun/android-apps-crawler))
+
+| Name | Apps # | Amount  |
+| ------ | ------: | -----: |
+|  www.3gyu.com  |  3230  |   8.87GB  |
+
+
+<!-- |  Cell  |  Cell  |   $20  | -->
+
