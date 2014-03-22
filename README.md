@@ -18,6 +18,9 @@ Android markets list including official and third-party from China, Russia, ...
 * http://www.3gyu.com
 * http://apk.angeeks.com
 * http://www.appfun.cn
+* http://www.7723.cn
+* http://www.crossmo.com
+* http://www.eoemarket.com
 
 ###Russia
 * http://alloptimus.ru
